@@ -1,7 +1,12 @@
 Sina weibo Exporter
 ==============
 
-You need to reach [Sina Weibo open platform](http://open.weibo.com/apps) to create an application first and get the **App Key** and **App Secret**.
+Export all your sina weibo to an HTML file.
+
+How
+--------------
+
+You need to reach [Sina Weibo open platform](http://open.weibo.com/apps) to create an application first and get the **App Key**, **App Secret** and **Callback URL**.
 
 Reference
 --------------
