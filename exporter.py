@@ -89,7 +89,6 @@ def main():
     client = oauth(APP_KEY, APP_SECRET, CALLBACK_URL)
 
     uid = raw_input("The user id: ")
-
     getStatuses(client, uid)
 
 if __name__ == '__main__':

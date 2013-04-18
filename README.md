@@ -10,5 +10,4 @@ Reference
 Contact
 --------------
 Weibo: [http://weibo.com/link307](@caasi)
-
 Twitter: [http://twitter.com/isaac_koo](@isaac_koo)
