@@ -11,7 +11,7 @@ You need to reach [Sina Weibo open platform](http://open.weibo.com/apps) to crea
 Reference
 --------------
 
-[sinaweibopy](https://github.com/michaelliao/sinaweibopy)
+Sina Weibo Python SDK: [sinaweibopy](https://github.com/michaelliao/sinaweibopy)
 
 Contact
 --------------

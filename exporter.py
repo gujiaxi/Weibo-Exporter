@@ -32,10 +32,10 @@ def getStatuses(client, uid):
 
     while(pg < 5000):
         tl = client.get.statuses__user_timeline(uid=uid, page=pg)
-        body = getBody(tl)
-        if not body:
+        bd = getBody(tl)
+        if not bd:
             break
-        outputText += body
+        outputText += bd
         pg += 1
 
     outputText += '\n</body>\n</html>'
@@ -54,6 +54,7 @@ def rtStatus(retweeted_status):
     return rtData
 
 def getBody(tl):
+    body = ''
     if tl['statuses'] == []:
         return False
     for st in tl['statuses']:
