@@ -1,16 +1,16 @@
 Sina weibo Exporter
 ==============
 
-You need to reach [http://open.weibo.com/apps](Sina Weibo open platform) to create an application first and get the **App Key** and **App Secret**.
+You need to reach [Sina Weibo open platform](http://open.weibo.com/apps) to create an application first and get the **App Key** and **App Secret**.
 
 Reference
 --------------
 
-[https://github.com/michaelliao/sinaweibopy](sinaweibopy)
+[sinaweibopy](https://github.com/michaelliao/sinaweibopy)
 
 Contact
 --------------
 
-Weibo: [http://weibo.com/link307](@caasi)
+Weibo: [@caasi](http://weibo.com/link307)
 
-Twitter: [http://twitter.com/isaac_koo](@isaac_koo)
+Twitter: [@isaac_koo](http://twitter.com/isaac_koo)
