@@ -58,7 +58,7 @@ def getBody(tl):
     if tl['statuses'] == []:
         return False
     for st in tl['statuses']:
-        body = st['text'] + '<br />'+'\n'
+        body += st['text'] + '<br />'+'\n'
 
         if (st.has_key("original_pic")):
             body += '<img src="' + st['bmiddle_pic'] + '" />' + '<br />' + '\n'
